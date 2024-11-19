@@ -24,14 +24,13 @@ const BirthdayCard = () => {
            </svg>, text: 'Mitos y cuentos' }, // Mythical storytelling
   ];
   
-
-  return (
-    <div className="w-full h-screen flex items-center justify-center bg-gradient-to-br from-blue-400 via-pink-200 to-purple-400">
-      <div className="mt-4 w-full max-w-2xl bg-white rounded-2xl shadow-lg p-8 text-center">
-        {/* Title Section */}
-        <h1 className="text-5xl font-bold text-gradient bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent font-pacifico">
-          ¡Feliz Cumpleaños, Kevin!
-        </h1>
+    return (
+      <div className="w-full min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-400 via-pink-200 to-purple-400">
+        <div className="w-full max-w-2xl bg-white rounded-2xl shadow-lg p-8 text-center mt-8">
+          {/* Title Section */}
+          <h1 className="text-5xl font-bold text-gradient bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent font-pacifico">
+            ¡Feliz Cumpleaños, Kevin!
+          </h1>
         <p className="text-2xl text-gray-700 mt-4">37 años increíbles 🎉</p>
 
         {/* Interests Section */}
