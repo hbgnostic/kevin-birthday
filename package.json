@@ -2,6 +2,7 @@
   "name": "kevin-birthday",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hbgnostic.github.io/kevin-birthday",
   "dependencies": {
     "@fontsource/pacifico": "^5.1.0",
     "@radix-ui/react-icons": "^1.3.0",

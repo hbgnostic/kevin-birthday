@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.971d9399.css",
-    "main.js": "/static/js/main.e27093a2.js",
-    "static/js/453.d6c85c77.chunk.js": "/static/js/453.d6c85c77.chunk.js",
-    "static/media/pacifico-latin-400-normal.woff2": "/static/media/pacifico-latin-400-normal.f36bb0347eecd87d78af.woff2",
-    "static/media/pacifico-latin-ext-400-normal.woff2": "/static/media/pacifico-latin-ext-400-normal.e12a2413eb43b100497c.woff2",
-    "static/media/pacifico-cyrillic-ext-400-normal.woff2": "/static/media/pacifico-cyrillic-ext-400-normal.682f9fb5d72ef074686d.woff2",
-    "static/media/pacifico-latin-400-normal.woff": "/static/media/pacifico-latin-400-normal.14d6c552098c08b689a8.woff",
-    "static/media/pacifico-latin-ext-400-normal.woff": "/static/media/pacifico-latin-ext-400-normal.a23c1ef38ba6c6d9d725.woff",
-    "static/media/pacifico-cyrillic-400-normal.woff2": "/static/media/pacifico-cyrillic-400-normal.12b0288f7a1df3155d42.woff2",
-    "static/media/pacifico-cyrillic-ext-400-normal.woff": "/static/media/pacifico-cyrillic-ext-400-normal.846fa4697d95af9f681d.woff",
-    "static/media/pacifico-cyrillic-400-normal.woff": "/static/media/pacifico-cyrillic-400-normal.62a6feffdc768e3f6e65.woff",
-    "static/media/pacifico-vietnamese-400-normal.woff2": "/static/media/pacifico-vietnamese-400-normal.bd5387ce81f7c383a0a3.woff2",
-    "static/media/pacifico-vietnamese-400-normal.woff": "/static/media/pacifico-vietnamese-400-normal.e0ad65c3d90312b0416e.woff",
-    "index.html": "/index.html",
-    "main.971d9399.css.map": "/static/css/main.971d9399.css.map",
-    "main.e27093a2.js.map": "/static/js/main.e27093a2.js.map",
-    "453.d6c85c77.chunk.js.map": "/static/js/453.d6c85c77.chunk.js.map"
+    "main.css": "/kevin-birthday/static/css/main.26cea063.css",
+    "main.js": "/kevin-birthday/static/js/main.5a389322.js",
+    "static/js/453.d6c85c77.chunk.js": "/kevin-birthday/static/js/453.d6c85c77.chunk.js",
+    "static/media/pacifico-latin-400-normal.woff2": "/kevin-birthday/static/media/pacifico-latin-400-normal.f36bb0347eecd87d78af.woff2",
+    "static/media/pacifico-latin-ext-400-normal.woff2": "/kevin-birthday/static/media/pacifico-latin-ext-400-normal.e12a2413eb43b100497c.woff2",
+    "static/media/pacifico-cyrillic-ext-400-normal.woff2": "/kevin-birthday/static/media/pacifico-cyrillic-ext-400-normal.682f9fb5d72ef074686d.woff2",
+    "static/media/pacifico-latin-400-normal.woff": "/kevin-birthday/static/media/pacifico-latin-400-normal.14d6c552098c08b689a8.woff",
+    "static/media/pacifico-latin-ext-400-normal.woff": "/kevin-birthday/static/media/pacifico-latin-ext-400-normal.a23c1ef38ba6c6d9d725.woff",
+    "static/media/pacifico-cyrillic-400-normal.woff2": "/kevin-birthday/static/media/pacifico-cyrillic-400-normal.12b0288f7a1df3155d42.woff2",
+    "static/media/pacifico-cyrillic-ext-400-normal.woff": "/kevin-birthday/static/media/pacifico-cyrillic-ext-400-normal.846fa4697d95af9f681d.woff",
+    "static/media/pacifico-cyrillic-400-normal.woff": "/kevin-birthday/static/media/pacifico-cyrillic-400-normal.62a6feffdc768e3f6e65.woff",
+    "static/media/pacifico-vietnamese-400-normal.woff2": "/kevin-birthday/static/media/pacifico-vietnamese-400-normal.bd5387ce81f7c383a0a3.woff2",
+    "static/media/pacifico-vietnamese-400-normal.woff": "/kevin-birthday/static/media/pacifico-vietnamese-400-normal.e0ad65c3d90312b0416e.woff",
+    "index.html": "/kevin-birthday/index.html",
+    "main.26cea063.css.map": "/kevin-birthday/static/css/main.26cea063.css.map",
+    "main.5a389322.js.map": "/kevin-birthday/static/js/main.5a389322.js.map",
+    "453.d6c85c77.chunk.js.map": "/kevin-birthday/static/js/453.d6c85c77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.971d9399.css",
-    "static/js/main.e27093a2.js"
+    "static/css/main.26cea063.css",
+    "static/js/main.5a389322.js"
   ]
 }
